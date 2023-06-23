@@ -50,9 +50,6 @@
   /* align-items: flex-end; */
 }
 
-.pro-btns .btn {
-}
-
 @media screen and (max-width: 740px) {
   .project-container {
     max-width: 90%;
