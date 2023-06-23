@@ -13,7 +13,7 @@ export const AboutContect = () => {
         <p>
           {" "}
           I'm a Navision Developer. I work in a microsoft platform called
-          Navision.
+          Dynamic Navision.
         </p>
         <Link to="/project" className="btn">
           PROJECTS
