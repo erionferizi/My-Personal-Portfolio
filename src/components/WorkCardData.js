@@ -21,8 +21,8 @@ const ProjectCardData = [
     imgsrc: apiQuote,
     title: "Random Quote",
     text: "Project with SpringBoot and JS, where u can register and create and post quotes",
-    view: "https://github.com/erionferizi/JavaScript",
-    source: "https://github.com/erionferizi/JavaScript",
+    view: "https://github.com/erionferizi/JavaSpringBoot-and-JavaScript",
+    source: "https://github.com/erionferizi/JavaSpringBoot-and-JavaScript",
   },
 ];
 
