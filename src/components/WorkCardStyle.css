@@ -20,6 +20,7 @@
 
 .project-card img {
   width: 100%;
+  height: 200px;
 }
 
 .project-title {
@@ -44,9 +45,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* padding: 0 5px; */
   /* align-items: center; */
   /* padding: 0.5rem 0; */
-  /* bottom: 0; */
+  /* bottom: 0px; */
   /* align-items: flex-end; */
 }
 
