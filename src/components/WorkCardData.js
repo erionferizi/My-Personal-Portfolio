@@ -14,8 +14,8 @@ const ProjectCardData = [
     imgsrc: guessNumber,
     title: "Guess My Number Game",
     text: "You type a number between 1-20 and click check to find if u guessed correctly to win",
-    view: "https://github.com/erionferizi/JavaScript",
-    source: "https://github.com/erionferizi/JavaScript",
+    view: "https://github.com/erionferizi/Guess-My-Number",
+    source: "https://github.com/erionferizi/Guess-My-Number",
   },
   {
     imgsrc: apiQuote,
